@@ -316,6 +316,7 @@ More specific to ZK:
 - [zkCNN: GKR-based zero-knowledge proof protocol for CNN model inference](https://github.com/TAMUCrypto/zkCNN) and their [paper](https://eprint.iacr.org/2021/673.pdf)
 - [Modulus Labs: bringing powerful ML models on-chain](https://www.moduluslabs.xyz/) and their [blogs](https://medium.com/@ModulusLabs)
 - [ZKML: Bridging AI/ML and Web3 with Zero-Knowledge Proofs](https://hackmd.io/@cathie/zkml)
+- [ZKMLOps: API providing Zero Knowledge Proof (ZKP) Auditing for AI-Enabled Systems (AIES)](https://github.com/renatocf/ZKMLOps) and their [paper](https://arxiv.org/abs/2510.26576)
 - [zkonduit: inference for deep learning models and other computational graphs in a zk-snark](https://github.com/zkonduit/ezkl)
 - [ZK Machine Learning: truly private machine learning, with zk-SNARKs and blockchain](https://github.com/zk-ml/demo)
 
